@@ -13,6 +13,7 @@ public class Main
 
         do
         {
+
             System.out.println("Adivina el numero magico (ingresa un numero): ");
             numeroUsuario = sc.nextInt();
 
